@@ -1,2 +1,9 @@
-# lanqiao_practice
-Daily_Coding_Record
+这里记录我日常的代码练习。
+
+内容
+- C++ 算法题解
+- Python 练习代码
+- `web/`：HTML/CSS 前端作业
+
+说明
+代码均为个人练习，部分题解参考了题面与网络思路。
